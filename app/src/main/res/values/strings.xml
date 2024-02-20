@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC Reader</string>
+    <string name="unsupportedoperationexception">UnsupportedOperationException %1$s</string>
+    <string name="observenfcstatus">observeNFCStatus %1$s</string>
+    <string name="observetoast">observeToast %1$s</string>
+    <string name="observetag">observeTag %1$s</string>
+</resources>
